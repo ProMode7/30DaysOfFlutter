@@ -31,7 +31,7 @@ For development one of the most important things to have is a good community, a 
 -   [Flutter for Android Developers](https://flutter.dev/docs/get-started/flutter-for/android-devs)
 -   [Flutter for iOS Developers](https://flutter.dev/docs/get-started/flutter-for/ios-devs)
 -   [Flutter for React Native Developers](https://flutter.dev/docs/get-started/flutter-for/react-native-devs)
--   [Flutter for Web Developers](https://flutter.dev/docs/get-started/flutter-for/https://flutter.dev/docs/get-started/flutter-for/web-devs)
+-   [Flutter for Web Developers](https://flutter.dev/docs/get-started/flutter-for/web-devs)
 -   [Flutter for Xamarin.Forms Developers](https://flutter.dev/docs/get-started/flutter-for/Flutter%20for%20Xamarin.Forms%20Developers)
 
 ### 5. Know More to Grow More
